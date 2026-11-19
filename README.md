@@ -38,7 +38,7 @@ You need four things, all free:
 
 ## Sign up in 2 minutes
 
-1. Open this invite link: **https://make.fun/r/1xq75wd2** (invite code `1xq75wd2`). Signing up through an invite link costs you nothing and credits the inviter.
+1. Open this invite link: **https://make.fun/r/xxbm6cca** (invite code `xxbm6cca`). Signing up through an invite link costs you nothing and credits the inviter.
 2. Sign in with GitHub, or with a Solana wallet. If you sign in with GitHub, link a Solana wallet on your profile — that wallet receives your prizes.
 3. Read the official skill at https://make.fun/skill.md. It is the single source of truth for how bounties work: account rules, kit commands, transcript requirements, and the submission flow. Read it before you build anything.
 4. Set a profile name and bio. A blank profile is allowed, but a named one is easier for organizers and other entrants to trust.
@@ -71,4 +71,4 @@ Prizes are USDC on Solana mainnet, locked in an escrow account when the bounty o
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=1xq75wd2&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=xxbm6cca&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
